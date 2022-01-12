@@ -2,7 +2,7 @@ import logo from './logo.svg';
 import './App.css';
 import Header from "./components/Header";
 import {Card} from './components/Card';
-import {Cardcomponents} from './components/Cardcomponents';
+import{ Cardcomponents} from './components/Cardcomponents';
 import { Col, Row } from 'react-bootstrap';
 import  Footer from './components/Footer';
 import{Login } from "./components/Login/Login";

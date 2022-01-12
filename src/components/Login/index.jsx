@@ -1,3 +1,4 @@
-export {Login} from "./Login";
-export {register} from "./register";
+import "./style.scss";
 
+export { Login } from "./login";
+export { Register } from "./register";
